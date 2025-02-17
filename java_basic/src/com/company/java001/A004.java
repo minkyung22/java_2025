@@ -1,4 +1,4 @@
-package com.company.java001_ex;
+package com.company.java001;
 
 public class A004 {
   public static void main(String [] args ) {
