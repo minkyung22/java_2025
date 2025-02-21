@@ -29,3 +29,9 @@ public class IfEx007 {
 	}
 
 }
+   
+
+//                             int(정수:4) + char(정수:2) + int(정수:4)
+    //                              "" =13
+    // if(operator=='+')     {result = " " +(d+d1);}
+    // else if(operator=='-'){
